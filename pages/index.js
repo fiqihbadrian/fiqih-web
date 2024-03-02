@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Jangan Main Slot Mulu aaa!!</title>
+        <title>bdr.de</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
