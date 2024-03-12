@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Jangan Main Slot Mulu Aa!" />
+        <Header title="tetstttttt" />
         <p className="description">
           Hahahaha
         </p>
